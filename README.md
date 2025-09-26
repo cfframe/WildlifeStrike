@@ -22,3 +22,6 @@ Optionally verify installed modules with:
 ```
 python -m pip list --local
 ```
+
+# Data handling
+See Python notebook for inline details.
